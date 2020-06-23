@@ -1,3 +1,5 @@
+This is a starter project to have a working react app with Enzyme as test runner and redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
